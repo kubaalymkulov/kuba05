@@ -1,0 +1,14 @@
+.box1{
+    width: 100px;
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+    width: 50px;
+}
+.box3{
+    background-color: green;
+    width: 50%;
+    max-width: 500px;
+    min-width: 400px;
+}

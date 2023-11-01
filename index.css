@@ -1,0 +1,51 @@
+.logos{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 25px;
+    background-color:red;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 25px;
+    background-color:red;
+    border: 1px solid;
+ }
+ .empty{
+     display: flex;
+     width: 3000px;
+     height: 25px;
+     background-color:greenyellow;
+     text-align:center;
+     justify-content: center;
+     border: 1px solid;
+ }
+.qwert{
+    display: flex;
+    width:500px;
+    height: 700px;
+    background-color: purple;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.asdf{
+    display: flex;
+}
+.Big-Box{
+    display: flex;
+    width:100px;
+    height:250px;
+    background-color: aliceblue;
+    flex-direction: column reverse;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    font-size: 10px;
+}
